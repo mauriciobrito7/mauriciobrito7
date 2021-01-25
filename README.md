@@ -15,24 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```javascript
-const mauricio = {
-  pronouns: "he" | "his",
-  code: [HTML, CSS, Javascript, Java, Go],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next"],
-      css: ["SCSS", "Styled Components", "Emotion", "Chakra UI"],
-    },
-    mobileApp: ["React Native"],
-    databases: ["mongo", "MySql"],
-    misc: ["Firebase", "Socket.IO", "Strapi"],
-  },
-  architecture: ["Single page applications", "Progressive web applications"],
-};
-```
-
-### 🌱 I’m currently learning ...
+# 🌱 I’m currently learning ...
 
 - <a  href="https://nextjs.org/">Next.js</a>
 - <a  href="https://reactnative.dev/">React Native</a>
@@ -43,7 +26,7 @@ const mauricio = {
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauriciobrito7&show_icons=true&theme=radical)
 
-### Find me around the web 🌎:
+# Find me around the web 🌎:
 
 - My profile on <a  href="https://www.linkedin.com/in/mauricio-brito-62b0a6140/">LinkedIn</a> 💼
 - Tinkering with interactions on <a href="https://codepen.io/MauricioBrito7"> Codepen</a> 🏓
