@@ -19,16 +19,6 @@ Here are some ideas to get you started:
 
 ### Find me around the web 🌎:
 
-<style>
-a {
-  border-bottom: 1px solid #D83B7D;
-}
-
-a:hover {
-  border-bottom: 1px solid #1f1b3b;
-}
-</style>
-
-- My profile on <a href="https://www.linkedin.com/in/mauricio-brito-62b0a6140/">LinkedIn</a> 💼
+- My profile on <a  href="https://www.linkedin.com/in/mauricio-brito-62b0a6140/">LinkedIn</a> 💼
 - Tinkering with interactions on <a href="https://codepen.io/MauricioBrito7"> Codepen</a> 🏓
 - Learning in public on <a href="https://leetcode.com/mauriciobrito7/">LeetCode</a> ✍
