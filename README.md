@@ -15,14 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./img/code.png" width="100%" height="auto">
+```javascript
+const mauricio = {
+  pronouns: "he" | "his",
+  code: [HTML, CSS, Javascript, Java, Go],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next"],
+      css: ["SCSS", "Styled Components", "Emotion", "Chakra UI"],
+    },
+    mobileApp: ["React Native"],
+    databases: ["mongo", "MySql"],
+    misc: ["Firebase", "Socket.IO", "Strapi"],
+  },
+  architecture: ["Single page applications", "Progressive web applications"],
+};
+```
 
-###🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
 - <a  href="https://nextjs.org/">Next.js</a>
 - <a  href="https://reactnative.dev/">React Native</a>
 
-###🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 
 - Building projects and my portfolio website.
 
