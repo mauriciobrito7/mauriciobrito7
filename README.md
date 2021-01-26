@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](./img/banner.jpg)
+
 ## 🌱 I’m currently learning ...
 
 - <a  href="https://nextjs.org/">Next.js</a>
