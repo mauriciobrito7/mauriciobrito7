@@ -12,3 +12,4 @@ const mauricio = {
   },
   architecture: ["Single page applications", "Progressive web applications"],
 };
+
