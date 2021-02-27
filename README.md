@@ -30,7 +30,15 @@ I'm Mauricio! a **Web Developer**👨🏽‍💻, looking to solve **real-world 
 
 ### ⚡ I can:
 
-- Speak spanish or english
+- Build, SPA, PWA, Responsive Applications, Server Side Rendered Applications. 💻
+- Design UI and UX. 🎨
+- Speak, spanish or english ⚙.
+
+### ❤ My favorites projects:
+
+- https://github.com/mauriciobrito7/devter
+- https://github.com/mauriciobrito7/petgram
+- https://github.com/mauriciobrito7/Musicfy
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauriciobrito7&show_icons=true&theme=radical)
 
