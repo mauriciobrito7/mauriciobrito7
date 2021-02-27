@@ -30,9 +30,9 @@ I'm Mauricio! a **Web Developer**👨🏽‍💻, looking to solve **real-world 
 
 ### ⚡ I can:
 
-- Build, SPA, PWA, Responsive Applications, Server Side Rendered Applications. 💻
+- Build SPA, PWA, Responsive Applications, Server Side Rendered Applications. 💻
 - Design UI and UX. 🎨
-- Speak, spanish or english ⚙.
+- Speak spanish or english ⚙.
 
 ### ❤ My favorites projects:
 
