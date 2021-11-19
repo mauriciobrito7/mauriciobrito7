@@ -42,6 +42,8 @@ I'm Mauricio! a **Web Developer**👨🏽‍💻, looking to solve **real-world 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauriciobrito7&show_icons=true&theme=radical)
 
+[![wakatime](https://wakatime.com/badge/user/6c0a6c17-ab26-4302-ae3e-eca083d92b7a.svg)](https://wakatime.com/@6c0a6c17-ab26-4302-ae3e-eca083d92b7a)
+
 ### Find me around the web 🌎:
 
 - My profile on <a  href="https://www.linkedin.com/in/mauricio-brito-62b0a6140/">LinkedIn</a> 💼
