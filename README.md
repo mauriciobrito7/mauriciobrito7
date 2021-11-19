@@ -21,12 +21,12 @@ I'm Mauricio! a **Web Developer**👨🏽‍💻, looking to solve **real-world 
 
 ### 🌱 I’m currently learning ...
 
-- <a  href="https://nextjs.org/">Next.js</a>
-- <a  href="https://reactnative.dev/">React Native</a>
+- Jamstack
+- DApp
 
 ### 🔭 I’m currently working on ...
 
-- Building projects and my portfolio website.
+- [Reign](https://www.reign.cl/)
 
 ### ⚡ I can:
 
@@ -41,6 +41,8 @@ I'm Mauricio! a **Web Developer**👨🏽‍💻, looking to solve **real-world 
 - https://github.com/mauriciobrito7/Musicfy
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauriciobrito7&show_icons=true&theme=radical)
+
+### Total time coded since Oct 11 2021
 
 [![wakatime](https://wakatime.com/badge/user/6c0a6c17-ab26-4302-ae3e-eca083d92b7a.svg)](https://wakatime.com/@6c0a6c17-ab26-4302-ae3e-eca083d92b7a)
 
