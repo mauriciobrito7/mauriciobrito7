@@ -39,7 +39,6 @@ I'm Mauricio! a **Web Developer**👨🏽‍💻, looking to solve **real-world 
 - https://github.com/mauriciobrito7/petgram
 - https://github.com/mauriciobrito7/Musicfy
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauriciobrito7&show_icons=true&theme=radical)
 
 ### Total time coded since Oct 11 2021
 
