@@ -3,8 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,15 +15,6 @@ Here are some ideas to get you started:
 # Hello World 👋🏽
 
 I'm Mauricio! a **Web Developer**👨🏽‍💻, looking to solve **real-world problems**:earth_asia:. Passionate about simple unique and intuitive design that speaks to the user. **High attention to details**, well organized with **pixel perfect designs** and **clean code**. Do :star2: my repository if you find my project interesting.
-
-### 🌱 I’m currently learning ...
-
-- Jamstack
-- DApp
-
-### 🔭 I’m currently working on ...
-
-- [Reign](https://www.reign.cl/)
 
 ### ⚡ I can:
 
